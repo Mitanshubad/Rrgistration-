@@ -1,0 +1,41 @@
+body
+{
+    background-color:teal ;
+}
+*{
+    box-sizing: border-box;
+}
+.container{
+    background-color:white; 
+    padding: 16px;
+    width: 50%;
+    margin:auto;
+    box-shadow: 10px 5px 5px rgb(20, 19, 19);
+}
+input[type="text"]
+
+{
+    width: 100%;
+    padding: 7px;
+    display:inline-block;
+    background-color:whitesmoke;
+    border: none;
+}
+button
+{
+    width: 100%;
+    background-color: teal;
+    border: none;
+    padding: 5px;
+    color:white;
+    font-size:15px;
+    cursor: pointer;
+}
+h1{
+    color: maroon;
+    border: 2px;
+   font-size:22PX;
+}
+.rbtn:hover{
+    opacity:1;
+}
